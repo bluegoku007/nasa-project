@@ -12,7 +12,7 @@ export default async function Home() {
   return (
     <div className="columns is-centered mt-2">
       <div data-theme="dark" className="column is-half">
-      <h1 className="title has-text-primary has-text-centered">Nasa News ok</h1>
+      <h1 className="title has-text-primary has-text-centered">Nasa News</h1>
 
         <div className="card">
           <div className="card-image">
@@ -28,7 +28,7 @@ export default async function Home() {
               <div className="media-left">
                 <figure className="image is-48x48">
                   <img
-                    src="https://bulma.io/assets/images/placeholders/96x96.png"
+                    src="avatar-test.png"
                     alt="Placeholder image"
                   />
                 </figure>
